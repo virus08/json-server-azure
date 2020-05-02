@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e9981eb5-6e38-4e2c-8de0-4c47f4cd2de5/resourceGroups/poc-chai-rg/providers/Microsoft.Web/sites/fbackend",
+    "appService.deploySubpath": ""
+}
